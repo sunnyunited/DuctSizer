@@ -20,7 +20,7 @@ def sizing(vdot,side1,side2,roughness):
 	L = 1.0				#duct length, m
 	Dh = 1.0			#hydraulic diameter, mm
 	velocity =	1.0		#velocity, m/s
-	rho = 1.225			#density, kg/m^3
+	rho = 1.204			#density, kg/m^3 (20 °C and 101.325 kPa)
 	epsilon = 1		###material absolute roughness factor, mm
 	Re = 1.0			#Reynolds number
 	area = 1.0			#duct area, mm2
